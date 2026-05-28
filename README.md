@@ -277,6 +277,15 @@ This package is part of the [FYIPedia](https://fyipedia.com) developer tools eco
 
 <!-- WIDGET-OSS-MONITOR: cross-links END -->
 
+## Recently Updated (v0.1.2)
+
+Latest content state on [https://airportfyi.com](https://airportfyi.com):
+- [Homepage](https://airportfyi.com)
+- [Developer documentation](https://airportfyi.com/developers/)
+- [Sitemap (full content index)](https://airportfyi.com/sitemap.xml)
+
+Version bumped 2026-05-27 as part of the FYIPedia [SEO recovery refresh](https://github.com/dobestan).
+
 ## License
 
 MIT
